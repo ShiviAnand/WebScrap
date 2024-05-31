@@ -1,0 +1,8 @@
+[ {
+  "2015" : [ "Spotlight", "6", "2", true, "Mad Max: Fury Road", "10", "6", false, "The Revenant", "12", "3", false, "Bridge of Spies", "6", "1", false, "The Big Short", "5", "1", false ],
+  "2014" : [ "Birdman", "9", "4", true, "The Grand Budapest Hotel", "9", "4", false, "Whiplash", "5", "3", false, "The Imitation Game", "8", "1", false, "American Sniper", "6", "1", false ],
+  "2013" : [ "12 Years a Slave", "9", "3", true, "Gravity", "10", "7", false, "Dallas Buyers Club", "6", "3", false, "Frozen", "2", "2", false, "The Great Gatsby", "2", "2", false ],
+  "2012" : [ "Argo", "7", "3", true, "Life of Pi", "11", "4", false, "Les Misérables", "8", "3", false, "Lincoln", "12", "2", false, "Django Unchained", "5", "2", false ],
+  "2011" : [ "The Artist", "10", "5", true, "Hugo", "11", "5", false, "The Iron Lady", "2", "2", false, "The Descendants", "5", "1", false, "The Girl with the Dragon Tattoo", "5", "1", false ],
+  "2010" : [ "The King's Speech", "12", "4", true, "Inception", "8", "4", false, "The Social Network", "8", "3", false, "The Fighter", "7", "2", false, "Toy Story 3", "5", "2", false ]
+} ]
